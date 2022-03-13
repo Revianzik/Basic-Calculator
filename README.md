@@ -3,7 +3,7 @@
 
 Ini merupakan kalkulator sederhana yang saya buat menggunakan bahasa pemrograman HTML, CSS, dan PHP.
 
-## Screenshots
+## Instruksi
 
 Ini merupakan tampilan awal dari kalkulator Ini.
 
